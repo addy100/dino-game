@@ -1,2 +1,5 @@
+##chrome dino game
 
 Runner.instance_gameOver = () => {}
+
+## press enter to execute
