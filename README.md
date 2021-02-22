@@ -1,6 +1,6 @@
 # dino game
 
-URL - chrome://dino
+URL - https://chrome://dino
 
 Right click and open Inspect
 
