@@ -1,6 +1,6 @@
-# dino game
+#Browser Dino Game
 
-URL - chrome://dino/
+URL -<a href="chrome://dino/"> Check </a>
 
 Right click and open Inspect 
 or use short-cut ctrl+shift+I to open the inspect window.
